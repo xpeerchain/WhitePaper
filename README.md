@@ -1,7 +1,7 @@
 <center> <h1>PeerAssets</h1> </center>
 <sub><center><h3>Peer-to-peer Assets</h3></center></sub>
 
-by: Peerchemist  <scott@xpeer.org>,  April, 2019.
+by: Scott Team  <scott@xpeer.org>,  April, 2019.
 
 # Introduction
 
